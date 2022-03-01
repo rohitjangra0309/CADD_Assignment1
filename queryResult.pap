@@ -1,0 +1,94 @@
+ _aln.pos         10        20        30        40        50        60
+6zb4A     --------------CVN------LPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAI 
+E484K     MFVFLVLLPLVSSQCVNLTTRTQLPPAYTNSFTRGVYYPDKVFRSSVLHSTQDLFLPFFSNVTWFHAI 
+ _consrvd               ***      *********************************************
+
+ _aln.p   70        80        90       100       110       120       130
+6zb4A     HV-----TK--RNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFC 
+E484K     HVSGTNGTKRFDNPVLPFNDGVYFASTEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVVIKVCEFQFC 
+ _consrvd **     **   ********************************************************
+
+ _aln.pos  140       150       160       170       180       190       200
+6zb4A     NDPFLGV------------EFRVYSSANNCTFEYVSQPFF----------KNLREFVFKNIDGYFKIY 
+E484K     NDPFLGVYYHKNNKSWMESEFRVYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNIDGYFKIY 
+ _consrvd *******            ********************           ******************
+
+ _aln.pos    210       220       230       240       250       260       270
+6zb4A     SKHTPID----LPQGFSALEPLVDLPIGINITRFQTLLALHRS--------SGWTAGAAAYYVGYLQP 
+E484K     SKHTPINLVRDLPQGFSALEPLVDLPIGINITRFQTLLALHRSYLTPGDSSSGWTAGAAAYYVGYLQP 
+ _consrvd ******     ********************************        *****************
+
+ _aln.pos      280       290       300       310       320       330       340
+6zb4A     RTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGE 
+E484K     RTFLLKYNENGTITDAVDCALDPLSETKCTLKSFTVEKGIYQTSNFRVQPTESIVRFPNITNLCPFGE 
+ _consrvd ********************************************************************
+
+ _aln.pos        350       360       370       380       390       400
+6zb4A     VFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVR 
+E484K     VFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVR 
+ _consrvd ********************************************************************
+
+ _aln.p  410       420       430       440       450       460       470
+6zb4A     QIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAG 
+E484K     QIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAG 
+ _consrvd ********************************************************************
+
+ _aln.pos  480       490       500       510       520       530       540
+6zb4A     STPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFN 
+E484K     STPCNGVKGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFN 
+ _consrvd ******* ************************************************************
+
+ _aln.pos    550       560       570       580       590       600       610
+6zb4A     GLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLY 
+E484K     GLTGTGVLTESNKKFLPFQQFGRDIADTTDAVRDPQTLEILDITPCSFGGVSVITPGTNTSNQVAVLY 
+ _consrvd ********************************************************************
+
+ _aln.pos      620       630       640       650       660       670       680
+6zb4A     QDVNCT-------------TWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQT---- 
+E484K     QDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEHVNNSYECDIPIGAGICASYQTQTNS 
+ _consrvd ******             *********************************************
+
+ _aln.pos        690       700       710       720       730       740
+6zb4A     --------SQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTE 
+E484K     PRRARSVASQSIIAYTMSLGAENSVAYSNNSIAIPTNFTISVTTEILPVSMTKTSVDCTMYICGDSTE 
+ _consrvd         ************************************************************
+
+ _aln.p  750       760       770       780       790       800       810
+6zb4A     CSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRS 
+E484K     CSNLLLQYGSFCTQLNRALTGIAVEQDKNTQEVFAQVKQIYKTPPIKDFGGFNFSQILPDPSKPSKRS 
+ _consrvd ********************************************************************
+
+ _aln.pos  820       830       840       850       860       870       880
+6zb4A     FIEDLLFNKVTL--AGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITS 
+E484K     FIEDLLFNKVTLADAGFIKQYGDCLGDIAARDLICAQKFNGLTVLPPLLTDEMIAQYTSALLAGTITS 
+ _consrvd ************  ******************************************************
+
+ _aln.pos    890       900       910       920       930       940       950
+6zb4A     GWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLS---SALGKLQDVV 
+E484K     GWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKLIANQFNSAIGKIQDSLSSTASALGKLQDVV 
+ _consrvd *******************************************************   **********
+
+ _aln.pos      960       970       980       990      1000      1010      1020
+6zb4A     NQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRA 
+E484K     NQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLITGRLQSLQTYVTQQLIRAAEIRA 
+ _consrvd ********************************************************************
+
+ _aln.pos       1030      1040      1050      1060      1070      1080
+6zb4A     SANLAATKMSECVLGQSK------R----VDFCGKGYHLMSFPQSAPHGVVFLHVTYVPA----QEKN 
+E484K     SANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAH 
+ _consrvd ******************             *     *   *             *  **
+
+ _aln.p 1090      1100      1110      1120      1130      1140      1150
+6zb4A     FTTAPAICHDG------KAHFPR------EGVFVSN------G----T---------HWFVTQRNFYE 
+E484K     FPREGVFVSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYF 
+ _consrvd *         *         *           ***       *    *           *      *
+
+ _aln.pos 1160      1170      1180      1190      1200      1210      1220
+6zb4A     PQIITT--DNTFVSG-NCDVV----------------------------------------------- 
+E484K     KNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGL 
+ _consrvd         *    ** *  **
+
+ _aln.pos   1230      1240      1250      1260      1270
+6zb4A     IGIVNNTVY-----------------------D---------------- 
+E484K     IAIVMVTIMLCCMTSCCSCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT 
+ _consrvd * **  *                         *
